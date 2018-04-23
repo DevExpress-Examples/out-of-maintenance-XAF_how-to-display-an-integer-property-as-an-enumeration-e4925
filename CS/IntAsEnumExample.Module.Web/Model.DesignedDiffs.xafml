@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="IntAsEnumExample.Module.BusinessObjects.SampleObject">
+      <OwnMembers>
+        <Member Name="IntegerProperty" PropertyEditorType="IntAsEnumExample.Module.Web.Editors.ASPxMyEnumIntPropertyEditor" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemAspNetModule" Version="13.1.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="13.1.6.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
