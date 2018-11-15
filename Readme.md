@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyEnumIntPropertyEditor.cs](./CS/IntAsEnumExample.Module.Web/Editors/MyEnumIntPropertyEditor.cs) (VB: [MyEnumIntPropertyEditor.vb](./VB/IntAsEnumExample.Module.Web/Editors/MyEnumIntPropertyEditor.vb))
+* [Model.DesignedDiffs.xafml](./CS/IntAsEnumExample.Module.Web/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/IntAsEnumExample.Module.Web/Model.DesignedDiffs.xafml))
+* [MyEnumIntPropertyEditor.cs](./CS/IntAsEnumExample.Module.Win/Editors/MyEnumIntPropertyEditor.cs) (VB: [MyEnumIntPropertyEditor.vb](./VB/IntAsEnumExample.Module.Win/Editors/MyEnumIntPropertyEditor.vb))
+* [Model.DesignedDiffs.xafml](./CS/IntAsEnumExample.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/IntAsEnumExample.Module.Win/Model.DesignedDiffs.xafml))
+* **[SampleObject.cs](./CS/IntAsEnumExample.Module/BusinessObjects/SampleObject.cs) (VB: [SampleObject.vb](./VB/IntAsEnumExample.Module/BusinessObjects/SampleObject.vb))**
+<!-- default file list end -->
 # How to: Display an Integer Property as an Enumeration
 
 
