@@ -1,1 +1,1 @@
-<%@ Application Language="vb" CodeBehind="Global.asax.vb" Inherits="IntAsEnumExample.Web.Global"%>
+<%@ Application Language="C#" CodeBehind="Global.asax.cs" Inherits="IntAsEnumExample.Web.Global"%>
